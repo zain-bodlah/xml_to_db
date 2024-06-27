@@ -1,0 +1,1 @@
+[2024-06-27 20:46:40] Error processing XML: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''340','Green Mountain Ground Coffee','20','Green Mountain Coffee French Roast...' at line 1
